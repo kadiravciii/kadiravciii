@@ -58,7 +58,7 @@ Welcome to my GitHub! I'm a passionate software developer specializing in **Web 
 ## 📞 Let's Connect
 
 - 💼 Open to freelance projects and collaborations
-- 📧 Email: support@fupa.com.tr
+- 📧 Email: kavcii3641@icloud.com
 - 🐦 Twitter: [@Kadirav1c](https://twitter.com/Kadirav1c)
 
 ---
